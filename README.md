@@ -1,1 +1,1 @@
-GreatLearning 20 Marks Lab1 JS.
+GreatLearning 20 Marks Lab2 JS.
